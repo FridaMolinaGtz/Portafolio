@@ -18,7 +18,10 @@ Experiencia:
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](imagenes/readme/screenshot3.png) 
+-Portafolio: (https://proyectoportafoliofridamolinagtz.netlify.app/) 
+-Proyecto 1: (https://1erproyecto-paginadecaballos.netlify.app/)
+-Linkedin: (https://www.linkedin.com/in/fridamolinag/)
 
 Testimonios:
 
